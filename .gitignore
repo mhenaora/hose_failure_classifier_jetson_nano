@@ -1,0 +1,10 @@
+#Cache 
+
+# Folders
+installers/
+scripts/__pycache__/
+scripts/utils/__pycache__/
+scripts/dataset/
+scripts/model/
+scripts/previous_test/
+scripts/tf-trt/
